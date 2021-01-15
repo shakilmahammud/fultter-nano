@@ -1,2 +1,9 @@
 
 1. create git hub repository
+2. add readme file
+3. init git 
+4. git add file
+5. git commit  
+6. git push
+
+#HAppy Coding
